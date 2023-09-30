@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+venv/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.cache
+*.idea/
+*.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+.settings/
